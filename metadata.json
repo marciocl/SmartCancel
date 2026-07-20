@@ -1,0 +1,6 @@
+{
+  "name": "SmartCancel Shield",
+  "description": "Painel inteligente de decisões de risco de cancelamento para hotéis com explicabilidade de IA e divisão de perfis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
